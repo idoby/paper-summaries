@@ -1,0 +1,16 @@
+lsi: false
+safe: false
+source: /
+title: סקירות מאמרים בעברית
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+gems:
+  - jekyll-feed
+plugins:
+  - jekyll-relative-links
+remote_theme: idoby/LagrangeHebrew
