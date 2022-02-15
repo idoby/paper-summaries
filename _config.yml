@@ -14,3 +14,9 @@ gems:
 plugins:
   - jekyll-relative-links
 remote_theme: idoby/LagrangeHebrew
+
+collections:
+  overviews:
+    output: true
+  summaries:
+    output: true
